@@ -1,4 +1,4 @@
-![preview.jpg]
+![](preview.jpg)
 
 # Semantic Image Search
 
