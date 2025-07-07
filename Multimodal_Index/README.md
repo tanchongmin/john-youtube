@@ -1,4 +1,4 @@
-[preview.jpg]
+[Semantic Search Interface](preview.jpg)
 
 # Semantic Image Search
 
