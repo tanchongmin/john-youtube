@@ -1,8 +1,10 @@
-![](preview.jpg)
-
 # Semantic Image Search
 
+![](preview.jpg)
+
 This project (created by John Tan Chong Min) implements a **semantic image search** web application using Cohere's multimodal embeddings and Gradio, all packaged within a Jupyter Notebook. You can retrieve similar images from a local dataset by providing positive and/or negative examples in the form of text and images.
+
+Video: https://www.youtube.com/watch?v=TJ9jvYSZwhc
 
 ## Repository Structure
 
