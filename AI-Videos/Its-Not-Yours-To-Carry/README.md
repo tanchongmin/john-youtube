@@ -29,9 +29,9 @@ Each segment below is placed in a copy-friendly `text` code block. Copy everythi
 
 ## Segment 1 — The Failed Presentation
 
-```text
 Duration: 0:00–0:15
 
+```text
 Create a cinematic 15-second video segment in a realistic Singapore setting. All visible text, presentation screen text, interface text, captions, environmental signage, and overlays must be in English only. No Chinese, Malay, Tamil, or non-English text anywhere.
 
 Main character: a Singaporean Chinese woman in her late 20s to early 30s, slim-average build, warm light-medium skin tone, dark brown shoulder-length hair neatly tied back or tucked behind her ears, gentle expressive dark eyes, minimal makeup, slight under-eye tiredness. She looks youthful, polished, competent, and emotionally restrained. She wears a cream blouse, charcoal tailored trousers, muted navy blazer, and simple black low heels.
@@ -69,10 +69,10 @@ No non-English text. No Chinese, Malay, or Tamil words. No extra graphic overlay
 
 ## Segment 2 — Apologizing for Everything
 
-```text
 Duration: 0:15–0:30
 
-Create a cinematic 15-second video segment in a realistic Singapore corporate office at night. Do not transition to another location during this segment. Keep the entire scene inside the office. All visible text, laptop text, email text, interface text, captions, environmental signage, and overlays must be in English only. No Chinese, Malay, Tamil, or non-English text anywhere.
+```text
+Create a cinematic 15-second video segment that follows directly from the previous video in a realistic Singapore corporate office at night. Do not transition to another location during this segment. Keep the entire scene inside the office. All visible text, laptop text, email text, interface text, captions, environmental signage, and overlays must be in English only. No Chinese, Malay, Tamil, or non-English text anywhere.
 
 Main character: the same Singaporean Chinese woman in her late 20s to early 30s, slim-average build, warm light-medium skin tone, dark brown shoulder-length hair neatly tied back or tucked behind her ears, gentle expressive dark eyes, minimal makeup, slight under-eye tiredness. She looks youthful, polished, competent, and emotionally restrained. She wears a cream blouse, charcoal tailored trousers, muted navy blazer, and simple black low heels.
 
@@ -107,10 +107,10 @@ No location transition. No apartment scene. No exterior scene. No non-English te
 
 ## Segment 3 — The Photo and “For the Weather”
 
-```text
 Duration: 0:30–0:45
 
-Create a cinematic 15-second video segment in a realistic Singapore apartment at night. Do not transition to another location during this segment. Keep the entire scene inside the apartment by the rainy window. All visible text, captions, environmental signage, written words, interface text, and overlays must be in English only. No Chinese, Malay, Tamil, or non-English text anywhere. Ideally, avoid all readable text in this segment.
+```text
+Create a cinematic 15-second video segment that follows directly from the previous video in a realistic Singapore apartment at night. Do not transition to another location during this segment. Keep the entire scene inside the apartment by the rainy window. All visible text, captions, environmental signage, written words, interface text, and overlays must be in English only. No Chinese, Malay, Tamil, or non-English text anywhere. Ideally, avoid all readable text in this segment.
 
 Main character: the same Singaporean Chinese woman in her late 20s to early 30s, slim-average build, warm light-medium skin tone, dark brown shoulder-length hair now down and slightly undone, gentle expressive dark eyes, minimal makeup, slight under-eye tiredness, natural skin texture. She looks youthful but emotionally tired, vulnerable, and quietly restrained. She wears a soft white cotton or light knit top, a light grey cardigan, and comfortable lounge pants.
 
@@ -147,10 +147,10 @@ No location transition. No office scene. No exterior scene. No non-English text.
 
 ## Segment 4 — Acceptance by the Window
 
-```text
 Duration: 0:45–1:00
 
-Create a cinematic 15-second video segment in a realistic Singapore apartment at night. All visible text, notebook writing, captions, environmental signage, interface text, and overlays must be in English only. No Chinese, Malay, Tamil, or non-English text anywhere.
+```text
+Create a cinematic 15-second video segment that follows directly from the previous video in a realistic Singapore apartment at night. All visible text, notebook writing, captions, environmental signage, interface text, and overlays must be in English only. No Chinese, Malay, Tamil, or non-English text anywhere.
 
 Main character: the same Singaporean Chinese woman in her late 20s to early 30s, slim-average build, warm light-medium skin tone, dark brown shoulder-length hair down and slightly undone, gentle expressive dark eyes, minimal makeup, slight under-eye tiredness, natural skin texture. She looks youthful but emotionally tired, vulnerable, and quietly restrained. She wears a soft white cotton or light knit top, a light grey cardigan, and comfortable lounge pants.
 
@@ -185,10 +185,10 @@ No non-English text. No Chinese, Malay, or Tamil words. No extra notebook writin
 
 ## Segment 5 — The Morning Test
 
-```text
 Duration: 1:00–1:15
 
-Create a cinematic 15-second video segment in a realistic Singapore street or building entrance at early morning. All visible text, phone messages, phone interface text, environmental signage, captions, and overlays must be in English only. No Chinese, Malay, Tamil, or non-English text anywhere.
+```text
+Create a cinematic 15-second video segment that follows directly from the previous video in a realistic Singapore street or building entrance at early morning. All visible text, phone messages, phone interface text, environmental signage, captions, and overlays must be in English only. No Chinese, Malay, Tamil, or non-English text anywhere.
 
 Main character: the same Singaporean Chinese woman in her late 20s to early 30s, slim-average build, warm light-medium skin tone, dark brown shoulder-length hair neatly tied back or tucked behind her ears, gentle expressive dark eyes, minimal makeup, slight under-eye tiredness. She looks youthful, polished, competent, calmer than before, though still thoughtful. She wears her office outfit again: cream blouse, charcoal tailored trousers, muted navy blazer, and simple black low heels.
 
@@ -223,10 +223,10 @@ No non-English text. No Chinese, Malay, or Tamil signage. No subtitles, captions
 
 ## Segment 6 — Choosing Kindness
 
-```text
 Duration: 1:15–1:30
 
-Create a cinematic 15-second video segment in a realistic Singapore street or building entrance at early morning. All visible text, phone messages, phone interface text, environmental signage, captions, and overlays must be in English only. No Chinese, Malay, Tamil, or non-English text anywhere.
+```text
+Create a cinematic 15-second video segment that follows directly from the previous video in a realistic Singapore street or building entrance at early morning. All visible text, phone messages, phone interface text, environmental signage, captions, and overlays must be in English only. No Chinese, Malay, Tamil, or non-English text anywhere.
 
 Main character: the same Singaporean Chinese woman in her late 20s to early 30s, slim-average build, warm light-medium skin tone, dark brown shoulder-length hair neatly tied back or tucked behind her ears, gentle expressive dark eyes, minimal makeup, slight under-eye tiredness. She looks youthful, polished, competent, and emotionally softer than before. She wears her office outfit: cream blouse, charcoal tailored trousers, muted navy blazer, and simple black low heels.
 
