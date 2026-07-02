@@ -23,11 +23,14 @@ Character Sheet:
 
 ---
 
-Text prompts (copy and paste after the **Duration** tag)
+Text prompts
+
+Each segment below is placed in a copy-friendly `text` code block. Copy everything inside the block and paste it into Seedance 2.0 Mini.
 
 ## Segment 1 — The Failed Presentation
 
-**Duration:** 0:00–0:15
+```text
+Duration: 0:00–0:15
 
 Create a cinematic 15-second video segment in a realistic Singapore setting. All visible text, presentation screen text, interface text, captions, environmental signage, and overlays must be in English only. No Chinese, Malay, Tamil, or non-English text anywhere.
 
@@ -41,7 +44,7 @@ The presentation screen shows a simple English-only error message such as “Inp
 
 Camera begins wide and static on the empty office and failed screen, then slowly pushes toward her. Cut to close-up of her face under cold office light, then close-up of her hands tightening slightly. Keep acting restrained: no exaggerated crying, no dramatic gestures, only quiet panic and self-blame.
 
-**Voiceover:**
+VOICEOVER:
 
 “Whenever something went wrong, she heard the same voice first.”
 
@@ -49,23 +52,25 @@ Camera begins wide and static on the empty office and failed screen, then slowly
 
 “It must be me.”
 
-**Music:**
+MUSIC:
 
 Sparse, cold, piano-led cinematic score. Isolated felt-piano notes, low ambient drones, faint pulse like emotional pressure. Minimal, unresolved, 60–70 BPM. No vocals, lyrics, drums, pop beat, or trailer music. Music should sit low beneath the narration.
 
-**Sound:**
+SOUND:
 
 Low office hum, projector buzz, faint air-conditioning.
 
-**Negative:**
+NEGATIVE:
 
 No non-English text. No Chinese, Malay, or Tamil words. No extra graphic overlays besides the opening title and credit. No subtitles, logos, watermarks, crowds, stock-photo lighting, fantasy visuals, melodrama, or exaggerated acting.
+```
 
 ---
 
 ## Segment 2 — Apologizing for Everything
 
-**Duration:** 0:15–0:30
+```text
+Duration: 0:15–0:30
 
 Create a cinematic 15-second video segment in a realistic Singapore corporate office at night. Do not transition to another location during this segment. Keep the entire scene inside the office. All visible text, laptop text, email text, interface text, captions, environmental signage, and overlays must be in English only. No Chinese, Malay, Tamil, or non-English text anywhere.
 
@@ -77,7 +82,7 @@ Show an over-the-shoulder shot of the laptop. She is writing an apology email in
 
 Keep the camera intimate and contained: over-the-shoulder laptop shot, close-up of her fingers deleting and retyping, close-up of her face reflected faintly on the laptop screen, then a final close-up of her lowered eyes. No scene change, no apartment, no exterior. Her body language remains heavy: slow movements, lowered gaze, rounded shoulders.
 
-**Voiceover:**
+VOICEOVER:
 
 “Even when no one blamed her, she blamed herself enough for everyone.”
 
@@ -85,23 +90,25 @@ Keep the camera intimate and contained: over-the-shoulder laptop shot, close-up 
 
 “She carried every disappointment like proof that she had failed.”
 
-**Music:**
+MUSIC:
 
 Introduce a fragile felt-piano motif, simple and repetitive, still unresolved. The music feels tired, lonely, and introspective. Keep the score cool and restrained, with subtle low ambient pads beneath the piano. No warm resolution yet. Keep the music low beneath the narration. No vocals, lyrics, drums, pop beat, or corporate inspirational tone.
 
-**Sound:**
+SOUND:
 
 Keyboard tapping, office hum, faint air-conditioning, distant city ambience, soft laptop fan.
 
-**Negative:**
+NEGATIVE:
 
 No location transition. No apartment scene. No exterior scene. No non-English text. No Chinese, Malay, or Tamil words. No subtitles, captions, logos, watermarks, fantasy visuals, excessive crying, messy continuity, bright stock-photo lighting, or exaggerated acting.
+```
 
 ---
 
 ## Segment 3 — The Photo and “For the Weather”
 
-**Duration:** 0:30–0:45
+```text
+Duration: 0:30–0:45
 
 Create a cinematic 15-second video segment in a realistic Singapore apartment at night. Do not transition to another location during this segment. Keep the entire scene inside the apartment by the rainy window. All visible text, captions, environmental signage, written words, interface text, and overlays must be in English only. No Chinese, Malay, Tamil, or non-English text anywhere. Ideally, avoid all readable text in this segment.
 
@@ -115,7 +122,7 @@ Use intimate close-ups: her hand touching the frame, the childhood photo, her ey
 
 This segment must end emotionally on the phrase “for the weather.” Let the final shot hold on her face as the line lands. She should look wounded but softened, as if she has finally understood how long she has been blaming herself for things no one can control.
 
-**Voiceover:**
+VOICEOVER:
 
 “Until one quiet night, she found a version of herself…”
 
@@ -123,23 +130,25 @@ This segment must end emotionally on the phrase “for the weather.” Let the f
 
 “…for the weather.”
 
-**Music:**
+MUSIC:
 
 The piano motif becomes warmer and more tender, but still restrained. Add a very soft cello or low string layer when she turns over the childhood photo. The music should feel like recognition, not full resolution. Slow, delicate, around 60–75 BPM. No vocals, lyrics, drums, pop beat, or big orchestral swell. Keep music low beneath narration.
 
-**Sound:**
+SOUND:
 
 Rain on glass, soft room ambience, quiet piano, gentle string warmth.
 
-**Negative:**
+NEGATIVE:
 
 No location transition. No office scene. No exterior scene. No non-English text. No Chinese, Malay, or Tamil words. No subtitles, captions, logos, watermarks, fantasy glow, exaggerated tears, melodrama, graphic overlays, inconsistent character appearance, or unrealistic beauty filter.
+```
 
 ---
 
 ## Segment 4 — Acceptance by the Window
 
-**Duration:** 0:45–1:00
+```text
+Duration: 0:45–1:00
 
 Create a cinematic 15-second video segment in a realistic Singapore apartment at night. All visible text, notebook writing, captions, environmental signage, interface text, and overlays must be in English only. No Chinese, Malay, Tamil, or non-English text anywhere.
 
@@ -153,29 +162,31 @@ She opens the notebook. Close-up of the blank page. Her hand trembles slightly a
 
 This segment should feel like the emotional heart of the story. The idea is not that everything is fixed, but that she has stopped sentencing herself for every outcome. She is learning that acceptance is not failure. The camera stays close and intimate: pen on paper, her breathing, her hand relaxing, the notebook sentence, the rain behind her, her face softening in warm light.
 
-**Voiceover:**
+VOICEOVER:
 
 “Maybe accepting the outcome was not giving up.”
 
 “Maybe it was letting go of a weight that was never hers to carry.”
 
-**Music:**
+MUSIC:
 
 This is the first gentle emotional resolution. The felt-piano motif becomes warmer and more open. Soft strings enter delicately, with a subtle harmonic release as she writes “I did my best. That is enough.” Keep the score intimate and heartwarming, not dramatic. No vocals, lyrics, drums, pop beat, corporate inspirational music, or big orchestral swell. Music remains low beneath the narration but feels more comforting than earlier segments.
 
-**Sound:**
+SOUND:
 
 Rain on glass, pen scratching paper, soft breath, warm room tone, gentle piano and strings.
 
-**Negative:**
+NEGATIVE:
 
 No non-English text. No Chinese, Malay, or Tamil words. No extra notebook writing. No subtitles, captions, watermarks, fantasy glow, exaggerated crying, motivational poster style, inconsistent character appearance, or unrealistic beauty filter.
+```
 
 ---
 
 ## Segment 5 — The Morning Test
 
-**Duration:** 1:00–1:15
+```text
+Duration: 1:00–1:15
 
 Create a cinematic 15-second video segment in a realistic Singapore street or building entrance at early morning. All visible text, phone messages, phone interface text, environmental signage, captions, and overlays must be in English only. No Chinese, Malay, Tamil, or non-English text anywhere.
 
@@ -189,29 +200,31 @@ A phone vibration interrupts the calm. She stops walking and looks down. Close-u
 
 Hold on her face. She looks conflicted. Her breathing becomes shallow for a moment. The scene should feel like a small emotional test, not a crisis. The tension is internal: will she blame herself again, or choose something different?
 
-**Voiceover:**
+VOICEOVER:
 
 “The next day, something small went wrong.”
 
 “Her apology rose by habit.”
 
-**Music:**
+MUSIC:
 
 The score begins warm and gentle, continuing from the emotional resolution of the previous segment. Use soft felt-piano chords, delicate strings, and a light ambient shimmer. When the phone vibrates and she starts typing “I’m sorry,” let a faint unresolved piano note return, hinting at the old self-blame. Keep music subtle and low beneath the voiceover. No vocals, lyrics, drums, pop beat, or corporate motivational tone.
 
-**Sound:**
+SOUND:
 
 Morning birds, distant light traffic, soft footsteps, phone vibration, gentle city ambience.
 
-**Negative:**
+NEGATIVE:
 
 No non-English text. No Chinese, Malay, or Tamil signage. No subtitles, captions, logos, watermarks, crowds, melodrama, exaggerated panic, fantasy visuals, inconsistent character appearance, or unrealistic beauty filter.
+```
 
 ---
 
 ## Segment 6 — Choosing Kindness
 
-**Duration:** 1:15–1:30
+```text
+Duration: 1:15–1:30
 
 Create a cinematic 15-second video segment in a realistic Singapore street or building entrance at early morning. All visible text, phone messages, phone interface text, environmental signage, captions, and overlays must be in English only. No Chinese, Malay, Tamil, or non-English text anywhere.
 
@@ -225,7 +238,7 @@ She puts the phone away and looks ahead. A small, genuine smile appears — subt
 
 The emotional meaning: she is still responsible, but she is no longer carrying blame that does not belong to her. She has not become careless; she has become kinder to herself.
 
-**Voiceover:**
+VOICEOVER:
 
 “But this time, she paused.”
 
@@ -237,14 +250,15 @@ The emotional meaning: she is still responsible, but she is no longer carrying b
 
 “And peace found her there.”
 
-**Music:**
+MUSIC:
 
 The music releases softly when she deletes “I’m sorry.” Use warm felt-piano chords, soft strings, and a light ambient shimmer. The final seconds gently resolve with peace, acceptance, and emotional warmth. The score feels heartwarming but restrained, not dramatic. No vocals, lyrics, pop beat, drums, big orchestral swell, or corporate inspirational music. Keep music low beneath narration.
 
-**Sound:**
+SOUND:
 
 Morning birds, distant light traffic, soft phone tap, gentle footsteps, warm ambient city morning, soft piano resolution.
 
-**Negative:**
+NEGATIVE:
 
 No non-English text. No Chinese, Malay, or Tamil signage. No subtitles, captions, logos, watermarks, crowds, melodrama, exaggerated smiling, fantasy visuals, inconsistent character appearance, or unrealistic beauty filter.
+```
