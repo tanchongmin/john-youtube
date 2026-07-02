@@ -8,7 +8,7 @@ There are still some object-based and text-based inconsistencies that needs to b
 
 YouTube short: https://www.youtube.com/watch?v=BhPJt2rm5nw
 
-To generate this yourself, simply copy the text prompts for each segment into Seedance 2.0 Mini. Then, add in the [Character sheet] (main_character.png) as well as the previous 15 second video if you have it.
+To generate this yourself, simply copy the text prompts for each segment into Seedance 2.0 Mini. Then, add in the [Character Sheet](main_character.png) as well as the previous 15 second video if you have it.
 
 I did not do a keyframe lock for the starting frame to be the ending frame of the last shot, but perhaps you can do it, as I had to use transitions to skip some abrupt changes. Apparently, just putting the previous video there is not enough for frame consistency all the time.
 
