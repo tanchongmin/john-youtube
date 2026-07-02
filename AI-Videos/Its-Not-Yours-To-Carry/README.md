@@ -23,6 +23,8 @@ Character Sheet:
 
 ---
 
+Text prompts (copy and paste after the **Duration** tag)
+
 ## Segment 1 — The Failed Presentation
 
 **Duration:** 0:00–0:15
