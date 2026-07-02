@@ -1,5 +1,7 @@
 # It’s Not Yours to Carry — Seedance 2.0 Mini Text-Based Prompts
 
+![Main Scene](main_scene.png)
+
 Created with Seedance 2.0 Mini with a character sheet and text-based prompts. In addition, the previous 15-second generated video was used as input conditioning for the next 15 seconds.
 
 All video and audio is raw as per generation, less scene transition effects like fading out and in.
@@ -11,6 +13,13 @@ YouTube short: https://www.youtube.com/watch?v=BhPJt2rm5nw
 To generate this yourself, simply copy the text prompts for each segment into Seedance 2.0 Mini. Then, add in the [Character Sheet](main_character.png) as well as the previous 15 second video if you have it.
 
 I did not do a keyframe lock for the starting frame to be the ending frame of the last shot, but perhaps you can do it, as I had to use transitions to skip some abrupt changes. Apparently, just putting the previous video there is not enough for frame consistency all the time.
+
+---
+
+Assets:
+
+Character Sheet: 
+![Character Sheet](main_character.png)
 
 ---
 
